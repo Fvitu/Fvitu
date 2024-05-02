@@ -1,5 +1,5 @@
 <div align="center" width="50">
-    <img alt="wijegoonawardana.com" src="https://avatars.githubusercontent.com/u/105558238?v=4" width="300" style="    border-radius: 50% !important; width: 200px"/>
+    <img alt="wijegoonawardana.com" src="https://avatars.githubusercontent.com/u/105558238?v=4" width="300" style="    border-radius: 50%; width: 200px"/>
 </div>
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Soy Fede Vitu</h1>
 
