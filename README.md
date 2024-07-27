@@ -2,7 +2,7 @@
 
 ## Acerca de mí 🧑‍💻:
 
-Apasionado estudiante de 16 años con una pasión desbordante por la programación. Constantemente explorando nuevas tecnologías y proyectos emocionantes en el mundo del desarrollo de software. ¡Bienvenido a mi mundo de código!
+Desarrollador con una pasión por la programación y la tecnología. Siempre en busca de nuevos desafíos y oportunidades para aprender y crecer en el fascinante mundo del desarrollo de software.
 <br>
 
 ## Lenguajes de programación 💻 :
